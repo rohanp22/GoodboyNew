@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Goodboy</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or">or</string>
+    <string name="new_user_register_now">New user? Register now</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="pet_parent_name">Pet parent name</string>
+    <string name="pet_name">Pet name</string>
+    <string name="phone_no">Phone no</string>
+    <string name="register">Register</string>
+</resources>
